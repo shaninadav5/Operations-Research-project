@@ -2,9 +2,6 @@
 
 A Monte Carlo simulation comparing four airplane boarding strategies (Random, Front-to-Back, Back-to-Front and Steffen) to find which one boards a 300-passenger plane fastest, with statistical tests on the differences.
 
-Project for the **Operations Research** course (B.Sc. Statistics & Data Science, 2nd year).
-**Authors:** Noa Klein, Shani Nadav
-
 ---
 
 ## The Model
